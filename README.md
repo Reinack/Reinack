@@ -1,16 +1,22 @@
-## Hi there 👋
+# Fernando Torres
 
-<!--
-**Reinack/Reinack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollo soluciones de análisis y automatización orientadas a operaciones industriales y datos.
 
-Here are some ideas to get you started:
+## Tecnologías
+- Python
+- Flask
+- Neo4j
+- PostgreSQL
+- Power BI
+- VBA
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interés
+- Grafos y modelado de relaciones
+- Sistemas industriales
+- Automatización de procesos
+- Visualización de datos
+- Trazabilidad y análisis operativo
+
+## Proyectos destacados
+- StoneLink Graph System
