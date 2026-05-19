@@ -19,4 +19,3 @@ Desarrollo soluciones de análisis y automatización orientadas a operaciones in
 - Trazabilidad y análisis operativo
 
 ## Proyectos destacados
-- StoneLink Graph System
