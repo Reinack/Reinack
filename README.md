@@ -1,22 +1,36 @@
-# Fernando Torres
+# Fernando Torres · Reinack
 
-Desarrollo soluciones de análisis y automatización orientadas a operaciones industriales y datos.
+Construyo herramientas de análisis, automatización y visualización — desde pipelines industriales
+hasta proyectos personales de fútbol y tecnología web.
 
-## Tecnologías
-- Python
-- Flask
-- Neo4j
-- PostgreSQL
-- Power BI
-- VBA
-- Git
+## Stack
 
-## Áreas de interés
-- Grafos y modelado de relaciones
-- Sistemas industriales
-- Automatización de procesos
-- Visualización de datos
-- Trazabilidad y análisis operativo
+**Backend & datos**
+`Python` `Flask` `Node.js` `Express` `Neo4j` `PostgreSQL`
+
+**Frontend & visualización**
+`JavaScript` `Power BI` `VBA`
+
+**Otros**
+`Dart` `Java` `C#` `Git`
+
+## Áreas
+
+- Grafos y modelado de relaciones (Neo4j)
+- Análisis de fútbol y datos deportivos
+- Automatización de procesos operativos
+- Tours 360° e interfaces interactivas
+- Trazabilidad y visualización industrial
 
 ## Proyectos destacados
-- Football Analytics.
+
+| Proyecto | Descripción |
+|---|---|
+| **Football Analytics** | Análisis de datos de fútbol |
+| *(tours 360°)* | Experiencias interactivas web |
+| *(plataformas educativas)* | Herramientas de aprendizaje |
+
+## Trayectoria
+
+🎓 **2022–2023** — Java, C#, GeneXus (etapa universitaria)  
+⚡ **2024–hoy** — JS fullstack, Python Flask, Neo4j, datos industriales
