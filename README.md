@@ -16,7 +16,7 @@ tecnológico cableado al grafo. Tres repos que trabajan juntos:
 | Repo | Rol | Stack | Demo |
 |---|---|---|---|
 | [**aoe2-codex**](https://github.com/Reinack/aoe2-codex) | Backend: ingesta → Neo4j + chat GraphRAG | Python · Express · Neo4j · Gemini | [🌐 live](https://aoe2-codex.onrender.com) |
-| [**codex-web**](https://github.com/Reinack/codex-web) | Frontend: civs, grafo de counters, chat | Next.js · TypeScript · Tailwind | [🌐 live](https://codex-web.vercel.app) |
+| [**codex-web**](https://github.com/Reinack/codex-web) | Frontend: civs, grafo de counters, chat | Next.js · TypeScript · Tailwind | [🌐 live]([https://codex-web.vercel.app](https://codex-web-murex.vercel.app/)) |
 | [**Aoe2-Tech-Tree-Advanced**](https://github.com/Reinack/Aoe2-Tech-Tree-Advanced) | Visor de árbol tecnológico interactivo | JavaScript · HTML/CSS | [🌐 live](https://aoe2-tech-tree-advanced.onrender.com/) |
 
 ---
@@ -25,7 +25,7 @@ tecnológico cableado al grafo. Tres repos que trabajan juntos:
 
 | Proyecto | Qué es | Stack | Demo |
 |---|---|---|---|
-| [**Football-Analytics**](https://github.com/Reinack/Football-Analytics) | ETL y análisis de fútbol europeo (+700K filas) en single-node y distribuido | Python · pandas · **PySpark/Hadoop** · Streamlit · Tableau | [🌐 live](https://bigdata-futbol.streamlit.app) |
+| [**Football-Analytics**](https://github.com/Reinack/Football-Analytics) | ETL y análisis de fútbol europeo (+700K filas) en single-node y distribuido | Python · pandas · **PySpark/Hadoop** · Streamlit · Tableau | [🌐 live]([https://bigdata-futbol.streamlit.app](https://bigdata-futbol-n8apt5auubtppwdpfr2bmr.streamlit.app/)) |
 | [**StoneLink**](https://github.com/Reinack/StoneLink) | Analítica de redes mineras sobre grafo, con simulación de fallas en cascada | Flask · Neo4j · Cytoscape.js | [🌐 live](https://stonelink.onrender.com) |
 | [**gestion-espectaculos-genexus**](https://github.com/Reinack/gestion-espectaculos-genexus) | Sistema de venta de entradas: aforo por sector, ventas y recaudación | GeneXus 18 | — |
 | [**plataforma-educativa**](https://github.com/Reinack/plataforma-educativa) | Plataforma de cursos y clases en vivo, fullstack | Node.js · Express · PostgreSQL | — |
