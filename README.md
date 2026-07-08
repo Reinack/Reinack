@@ -1,4 +1,4 @@
-# Fernando Torres · `Reinack`
+# Fernando Torres ·
 
 Construyo herramientas de **análisis, automatización y visualización de datos** — desde
 pipelines y grafos de conocimiento hasta aplicaciones web interactivas.
