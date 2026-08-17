@@ -50,7 +50,7 @@ through an LLM, and a tech tree viewer wired to the graph.
 | Repo | Role | Stack | Demo |
 |---|---|---|---|
 | [**aoe2-codex**](https://github.com/Reinack/aoe2-codex) | Backend: ingestion into Neo4j + GraphRAG chat | Python · Express · Neo4j · Gemini | [🌐 live](https://aoe2-codex.onrender.com) |
-| [**codex-web**](https://github.com/Reinack/codex-web) | Frontend: civilizations, counter graph, chat | Next.js · TypeScript · Tailwind | [🌐 live](https://codex-web.vercel.app) |
+| [**codex-web**](https://github.com/Reinack/codex-web) | Frontend: civilizations, counter graph, chat | Next.js · TypeScript · Tailwind | [🌐 live]([[https://codex-web.vercel.app](https://codex-web.vercel.app)](https://codex-web-murex.vercel.app/)) |
 | [**Aoe2-Tech-Tree-Advanced**](https://github.com/Reinack/Aoe2-Tech-Tree-Advanced) | Interactive tech tree viewer | JavaScript · HTML/CSS | [🌐 live](https://aoe2-tech-tree-advanced.onrender.com) |
 
 ## Other work
