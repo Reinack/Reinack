@@ -39,7 +39,7 @@ SQLAlchemy · PostgreSQL.
 | Project | What it is | Stack | Demo |
 |---|---|---|---|
 | [**superstore-sales-analysis**](https://github.com/Reinack/superstore-sales-analysis) | Root-cause diagnosis over 10,800 retail orders: traced the profit loss to one discount policy in one region, and disproved the explanation the numbers seemed to support | Python · pandas · Plotly | [🌐 live](https://reinack.github.io/superstore-sales-analysis/) |
-| [**Football-Analytics**](https://github.com/Reinack/Football-Analytics) | ETL and analysis of 700K+ rows of European league data, single-node and distributed | pandas · **PySpark/Hadoop** · Streamlit · Tableau | [🌐 live](https://bigdata-futbol.streamlit.app) |
+| [**Football-Analytics**](https://github.com/Reinack/Football-Analytics) | ETL and analysis of 700K+ rows of European league data, single-node and distributed | pandas · **PySpark/Hadoop** · Streamlit · Tableau | [🌐 live]([https://bigdata-futbol.streamlit.app](https://bigdata-futbol-n8apt5auubtppwdpfr2bmr.streamlit.app)) |
 | [**StoneLink**](https://github.com/Reinack/StoneLink) | Graph analytics for mining networks: simulate an equipment failure, see the cascade downstream | Flask · Neo4j · Cytoscape.js | [🌐 live](https://stonelink.onrender.com) |
 
 ## Knowledge graphs and applied AI — AoE2 Strategy Codex
