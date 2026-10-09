@@ -41,7 +41,7 @@ SQLAlchemy · PostgreSQL.
 | Proyecto | Qué es | Stack | Demo |
 |---|---|---|---|
 | [**superstore-sales-analysis**](https://github.com/Reinack/superstore-sales-analysis) | Diagnóstico de causa raíz sobre 10.800 pedidos retail: rastrea la pérdida de rentabilidad hasta una política de descuento en una región, y descarta con datos la explicación que los números parecían respaldar | Python · pandas · Plotly | [🌐 live](https://reinack.github.io/superstore-sales-analysis/) |
-| [**Football-Analytics**](https://github.com/Reinack/Football-Analytics) | ETL y análisis de +700K filas de fútbol europeo, en single-node y distribuido | pandas · **PySpark/Hadoop** · Streamlit · Tableau | [🌐 live](https://bigdata-futbol.streamlit.app) |
+| [**Football-Analytics**](https://github.com/Reinack/Football-Analytics) | ETL y análisis de +700K filas de fútbol europeo, en single-node y distribuido | pandas · **PySpark/Hadoop** · Streamlit · Tableau | [🌐 live](https://bigdata-futbol-n8apt5auubtppwdpfr2bmr.streamlit.app/) |
 | [**StoneLink**](https://github.com/Reinack/StoneLink) | Analítica de redes mineras sobre grafo: simula una falla de equipo y muestra el impacto en cascada | Flask · Neo4j · Cytoscape.js | [🌐 live](https://stonelink.onrender.com) |
 
 ## Grafos de conocimiento e IA aplicada — AoE2 Strategy Codex
@@ -52,7 +52,7 @@ semántica con LLM y un visor de árbol tecnológico cableado al grafo.
 | Repo | Rol | Stack | Demo |
 |---|---|---|---|
 | [**aoe2-codex**](https://github.com/Reinack/aoe2-codex) | Backend: ingesta a Neo4j + chat GraphRAG | Python · Express · Neo4j · Gemini | [🌐 live](https://aoe2-codex.onrender.com) |
-| [**codex-web**](https://github.com/Reinack/codex-web) | Frontend: civilizaciones, grafo de counters, chat | Next.js · TypeScript · Tailwind | [🌐 live](https://codex-web.vercel.app) |
+| [**codex-web**](https://github.com/Reinack/codex-web) | Frontend: civilizaciones, grafo de counters, chat | Next.js · TypeScript · Tailwind | [🌐 live](https://codex-web-murex.vercel.app) |
 | [**Aoe2-Tech-Tree-Advanced**](https://github.com/Reinack/Aoe2-Tech-Tree-Advanced) | Visor de árbol tecnológico interactivo | JavaScript · HTML/CSS | [🌐 live](https://aoe2-tech-tree-advanced.onrender.com) |
 
 ## Otros proyectos
